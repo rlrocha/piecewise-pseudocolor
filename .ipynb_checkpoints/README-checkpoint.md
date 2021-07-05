@@ -2,9 +2,9 @@
 Exemplo desenvolvido na disciplina Processamento Digital de Imagens do Programa de Pós-Graduação em Ciência da Computação (PPGCC) da Universidade Federal do Pará (UFPA) em 2021.1.
 
 <p align="center">
-    <img width="500" src="images/piecewise.png">
+    <img width="700" src="images/piecewise.png">
 </p>
 
 <p align="center">
-    <img width="500" src="images/pseudocolor.png">
+    <img width="700" src="images/pseudocolor.png">
 </p>
